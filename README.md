@@ -7,7 +7,7 @@ ReAct-Drive is a Python-based system designed to monitor driver alertness using 
 ## Demo
 
 
-<video src="https://github.com/user-attachments/assets/3d761900-32d7-4e2d-8c18-cc328da65320" width="352" height="720"></video>
+<video src="https://github.com/user-attachments/assets/8a64240a-786c-4d31-bc3d-fe883fa96adf" width="352" height="720"></video>
 
 ## 🧠 Features
 
